@@ -20,4 +20,4 @@ Credits for this code goes to two people
 
 1)[aniruddhpillai16](https://github.com/anirudhpillai16/Time-Series-Analysis/blob/master/Time%20Series%20Analytics%20Vidhya.ipynb). 
 
-2) Siraj's YouTube (https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+2)Siraj's YouTube (https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
