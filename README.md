@@ -1,9 +1,5 @@
 # Time_Series_Prediction
-This is the code for "Time Series Prediction" By Siraj Raval on Youtube
 
-## Overview
-
-This is the code for [this](https://youtu.be/d4Sn6ny_5LI) video on youtube by Siraj Raval on time series prediction. 
 
 ## Dependencies
 
