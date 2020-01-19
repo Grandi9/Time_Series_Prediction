@@ -16,4 +16,4 @@ Run the jupyter notebook to see all the techniques.
 
 ## Credits
 
-Credits for this code goes to [aniruddhpillai16](https://github.com/anirudhpillai16/Time-Series-Analysis/blob/master/Time%20Series%20Analytics%20Vidhya.ipynb). I've merely created a wrapper to get people started. 
+Credits for this code goes to [aniruddhpillai16](https://github.com/anirudhpillai16/Time-Series-Analysis/blob/master/Time%20Series%20Analytics%20Vidhya.ipynb). and Siraj YouTube (https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
